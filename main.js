@@ -1,1 +1,1 @@
-console.log("main file modified 6");
+console.log("main file modified");
